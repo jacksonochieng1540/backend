@@ -4,17 +4,17 @@ A complete Django REST Framework e-commerce backend with JWT authentication, pro
 
 ## Features
 
-- 🔐 JWT Authentication (Registration, Login, Logout, Profile Management)
-- 📦 Product Management (CRUD with categories, images, search, filters)
-- 🛒 Shopping Cart (Add, Update, Remove items)
-- 📋 Order Management (Create orders, track status, order history)
-- 💳 Payment Integration (Stripe, PayPal, Razorpay support)
-- 🎟️ Coupon & Discount System
-- 🔍 Advanced Search & Filtering
-- 📊 Admin Panel (Custom Django Admin)
-- ⚡ Redis Caching for performance
-- 📄 API Documentation (Swagger/OpenAPI)
-- ✅ Unit Tests
+-  JWT Authentication (Registration, Login, Logout, Profile Management)
+- Product Management (CRUD with categories, images, search, filters)
+- Shopping Cart (Add, Update, Remove items)
+-  Order Management (Create orders, track status, order history)
+-  Payment Integration (Stripe, PayPal, Razorpay support)
+-  Coupon & Discount System
+-  Advanced Search & Filtering
+-  Admin Panel (Custom Django Admin)
+-  Redis Caching for performance
+- API Documentation (Swagger/OpenAPI)
+-  Unit Tests
 
 ## Tech Stack
 
