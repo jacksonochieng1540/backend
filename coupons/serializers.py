@@ -40,7 +40,6 @@ class CouponValidateSerializer(serializers.Serializer):
         
         return value
 
-
 class CouponUsageSerializer(serializers.ModelSerializer):
     coupon_code = serializers.CharField(source='coupon.code', read_only=True)
     user_email = serializers.EmailField(source='user.email', read_only=True)
